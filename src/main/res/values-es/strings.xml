@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">LaKonfrariaDeLaVila</string>
+
+    <!-- Navigation bar Titles -->
+    <string-array name="title_section_array">
+        <item>Home</item>
+        <item>Puntos de interes</item>
+        <item>Dónde comer?</item>
+        <item>Dónde comprar?</item>
+        <item>Dónde dormir?</item>
+        <item>Otros servicios</item>
+    </string-array>
+
+    <!-- Action names -->
+    <string name="action_example">Info</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- Toast names -->
+    <string name="toast_info">Botón de acción</string>
+    <string name="toast_search_location">Yendo hacia La Palma!</string>
+    <string name="toast_search_query">Buscando: </string>
+
+    <!-- Other names -->
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+
+</resources>

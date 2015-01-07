@@ -1,0 +1,9 @@
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/classes/debug
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e42864757b5f1d4a26a240189127c0a0cd2974d9.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/slf4j-android-1.7.9-12f17e6c93a926e77b5aeecc38b7a02047abd477.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.9-4768cfaac34b8c3e2545963c2a00bb6e6e90afdb.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0e8a36b942862f63cbf576b9e682b41635a855bf.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/osmbonuspack_v5.0-4f839c80ea928e9ecf86baf0232bcb3741b90a28.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.2-d8a32022d090b58b3c4f8c034fdbfa18671aaa54.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/classes-3777bffc0a18f660d54ab00598a9fb0f76e10b87.jar
+/home/eriba/AndroidStudioProjects/LaKonfrariaDeLaVilaProject/app/build/intermediates/pre-dexed/debug/classes-ab375acabfeb66387167834afb5fc38388ced4a5.jar
